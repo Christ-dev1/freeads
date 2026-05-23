@@ -43,7 +43,7 @@
             </div>
 
             <p class="text-center text-gray-400 text-sm mt-6">
-                Ce lien expire dans 1 minutes.
+                Ce lien expire dans 5 minutes.
             </p>
         </div>
     </div>
